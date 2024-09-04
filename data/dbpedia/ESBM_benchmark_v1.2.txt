@@ -1,0 +1,125 @@
+1	http://dbpedia.org/resource/3WAY_FM,	3WAY FM
+2	http://dbpedia.org/resource/Adrian_Griffin,	Adrian Griffin
+3	http://dbpedia.org/resource/Andrew_Kippis,	Andrew Kippis
+4	http://dbpedia.org/resource/Anthony_Beaumont-Dark,	Anthony Beaumont-Dark
+5	http://dbpedia.org/resource/Dallas_Keuchel,	Dallas Keuchel
+6	http://dbpedia.org/resource/E._K._Mawlong,	E. K. Mawlong
+7	http://dbpedia.org/resource/Finn_Schiander,	Finn Schiander
+8	http://dbpedia.org/resource/Hagar_Wilde,	Hagar Wilde
+9	http://dbpedia.org/resource/Ludwigsburg_University,	Ludwigsburg University
+10	http://dbpedia.org/resource/Roderick_Carr,	Roderick Carr
+11	http://dbpedia.org/resource/2009–10_Swiss_Cup,	2009–10 Swiss Cup
+12	http://dbpedia.org/resource/2011_Kor_Royal_Cup,	2011 Kor Royal Cup
+13	http://dbpedia.org/resource/2012_League_of_Ireland_Cup_Final,	2012 League of Ireland Cup Final
+14	http://dbpedia.org/resource/2011_Sparta_Prague_Open,	2011 Sparta Prague Open
+15	http://dbpedia.org/resource/2012–13_UEFA_Champions_League,	2012–13 UEFA Champions League
+16	http://dbpedia.org/resource/Battle_of_Bregalnica,	Battle of Bregalnica
+17	http://dbpedia.org/resource/Battle_of_Rottofreddo,	Battle of Rottofreddo
+18	http://dbpedia.org/resource/Burgery_ambush,	Burgery ambush
+19	http://dbpedia.org/resource/Massacre_on_34th_Street,	Massacre on 34th Street
+20	http://dbpedia.org/resource/Triathlon_at_the_2000_Summer_Olympics_–_Men's,	Triathlon at the 2000 Summer Olympics – Men's
+21	http://dbpedia.org/resource/Akalwadi,	Akalwadi
+22	http://dbpedia.org/resource/Chitita,	Chitita
+23	http://dbpedia.org/resource/Kuleh_Bayan,	Kuleh Bayan
+24	http://dbpedia.org/resource/Phong_Thạnh_Tây,	Phong Thạnh Tây
+25	http://dbpedia.org/resource/Reamer_Barn,	Reamer Barn
+26	http://dbpedia.org/resource/Richmond–Petersburg_Turnpike,	Richmond–Petersburg Turnpike
+27	http://dbpedia.org/resource/Uelsby,	Uelsby
+28	http://dbpedia.org/resource/Wehlaberg,	Wehlaberg
+29	http://dbpedia.org/resource/Wernshausen,	Wernshausen
+30	http://dbpedia.org/resource/Yayoidai_Station,	Yayoidai Station
+31	http://dbpedia.org/resource/African_grey_hornbill,	African grey hornbill
+32	http://dbpedia.org/resource/Bornean_mountain_ground_squirrel,	Bornean mountain ground squirrel
+33	http://dbpedia.org/resource/Eastern_Sumatran_rhinoceros,	Eastern Sumatran rhinoceros
+34	http://dbpedia.org/resource/Enallagma_truncatum,	Enallagma truncatum
+35	http://dbpedia.org/resource/Lepiota_helveola,	Lepiota helveola
+36	http://dbpedia.org/resource/Lygodium_microphyllum,	Lygodium microphyllum
+37	http://dbpedia.org/resource/Ovophis,	Ovophis
+38	http://dbpedia.org/resource/Rubus_arizonensis,	Rubus arizonensis
+39	http://dbpedia.org/resource/Siamese_mud_carp,	Siamese mud carp
+40	http://dbpedia.org/resource/Trachelipus_dimorphus,	Trachelipus dimorphus
+41	http://dbpedia.org/resource/Foppt_den_Dämon!,	Foppt den Dämon!
+42	http://dbpedia.org/resource/Hey_Boy_(Teddybears_song),	Hey Boy (Teddybears song)
+43	http://dbpedia.org/resource/King_of_the_Mountain_(film),	King of the Mountain (film)
+44	http://dbpedia.org/resource/Our_Leading_Citizen_(1939_film),	Our Leading Citizen (1939 film)
+45	http://dbpedia.org/resource/Simon_(2004_film),	Simon (2004 film)
+46	http://dbpedia.org/resource/Sketchy_EP_1,	Sketchy EP 1
+47	http://dbpedia.org/resource/Sky_(Faye_Wong_album),	Sky (Faye Wong album)
+48	http://dbpedia.org/resource/Sting_Me,	Sting Me
+49	http://dbpedia.org/resource/The_Crowd_Snores,	The Crowd Snores
+50	http://dbpedia.org/resource/Touch_of_Death_(1961_film),	Touch of Death (1961 film)
+51	http://dbpedia.org/resource/Ashot_I_of_Iberia,	Ashot I of Iberia
+52	http://dbpedia.org/resource/Cindy_Mackey,	Cindy Mackey
+53	http://dbpedia.org/resource/Edmund_Smith_Conklin,	Edmund Smith Conklin
+54	http://dbpedia.org/resource/Fabrice_Gautrat,	Fabrice Gautrat
+55	http://dbpedia.org/resource/Hiroshi_Mori_(writer),	Hiroshi Mori (writer)
+56	http://dbpedia.org/resource/Momchil_Tsvetanov,	Momchil Tsvetanov
+57	http://dbpedia.org/resource/Najmadin_Shukr_Rauf,	Najmadin Shukr Rauf
+58	http://dbpedia.org/resource/Storme_Warren,	Storme Warren
+59	http://dbpedia.org/resource/Svyatoslav_Tanasov,	Svyatoslav Tanasov
+60	http://dbpedia.org/resource/William_Anthony_Hughes,	William Anthony Hughes
+61	http://dbpedia.org/resource/1960_Glover_Trophy,	1960 Glover Trophy
+62	http://dbpedia.org/resource/1967_Italian_Grand_Prix,	1967 Italian Grand Prix
+63	http://dbpedia.org/resource/2008_Copa_América_–_FIFA_Futsal,	2008 Copa América – FIFA Futsal
+64	http://dbpedia.org/resource/2008_Copa_del_Rey_Final,	2008 Copa del Rey Final
+65	http://dbpedia.org/resource/2010_Belgian_Super_Cup,	2010 Belgian Super Cup
+66	http://dbpedia.org/resource/2013_Slovak_Cup_Final,	2013 Slovak Cup Final
+67	http://dbpedia.org/resource/Battle_of_Calicut_(1502),	Battle of Calicut (1502)
+68	http://dbpedia.org/resource/Battle_of_Cepeda_(1820),	Battle of Cepeda (1820)
+69	http://dbpedia.org/resource/Battle_on_the_Elster,	Battle on the Elster
+70	http://dbpedia.org/resource/Operation_Hump,	Operation Hump
+71	http://dbpedia.org/resource/Darreh_Dang,	Darreh Dang
+72	http://dbpedia.org/resource/Jalalia,_Khyber_Pakhtunkhwa,	Jalalia, Khyber Pakhtunkhwa
+73	http://dbpedia.org/resource/Kings_Ripton,	Kings Ripton
+74	http://dbpedia.org/resource/Kotumachagi,	Kotumachagi
+75	http://dbpedia.org/resource/Muławki,	Muławki
+76	http://dbpedia.org/resource/Pinnacle_Mountain_(South_Carolina),	Pinnacle Mountain (South Carolina)
+77	http://dbpedia.org/resource/Saint-Raphaël,_Var,	Saint-Raphaël, Var
+78	http://dbpedia.org/resource/Sauxillanges,	Sauxillanges
+79	http://dbpedia.org/resource/Stara_Bučka,	Stara Bučka
+80	http://dbpedia.org/resource/Zarudcze,	Zarudcze
+81	http://dbpedia.org/resource/Amphisbaena_ridleyi,	Amphisbaena ridleyi
+82	http://dbpedia.org/resource/Balanites,	Balanites
+83	http://dbpedia.org/resource/Bryotropha_plantariella,	Bryotropha plantariella
+84	http://dbpedia.org/resource/Hilarographa_excellens,	Hilarographa excellens
+85	http://dbpedia.org/resource/Inverted_repeat-lacking_clade,	Inverted repeat-lacking clade
+86	http://dbpedia.org/resource/Melaleuca_sheathiana,	Melaleuca sheathiana
+87	http://dbpedia.org/resource/Pseudanos_trimaculatus,	Pseudanos trimaculatus
+88	http://dbpedia.org/resource/Stemonoporus_laevifolius,	Stemonoporus laevifolius
+89	http://dbpedia.org/resource/Thaia_saprophytica,	Thaia saprophytica
+90	http://dbpedia.org/resource/Trichoscypha_cavalliensis,	Trichoscypha cavalliensis
+91	http://dbpedia.org/resource/392_(album),	392 (album)
+92	http://dbpedia.org/resource/Drama_City,	Drama City
+93	http://dbpedia.org/resource/If_(Glasvegas_song),	If (Glasvegas song)
+94	http://dbpedia.org/resource/Intensive_Care_Medicine_(journal),	Intensive Care Medicine (journal)
+95	http://dbpedia.org/resource/It's_Still_Rock_and_Roll_to_Me,	It's Still Rock and Roll to Me
+96	http://dbpedia.org/resource/Politiken,	Politiken
+97	http://dbpedia.org/resource/Rebel_Love_Song,	Rebel Love Song
+98	http://dbpedia.org/resource/Terrorist_Threats,	Terrorist Threats
+99	http://dbpedia.org/resource/Time_(Dave_Clark_album),	Time (Dave Clark album)
+100	http://dbpedia.org/resource/Wide_Awake_Drunk,	Wide Awake Drunk
+141	http://dbpedia.org/resource/A._Scott_Sloan,	A. Scott Sloan
+142	http://dbpedia.org/resource/Juhan_Muks,	Juhan Muks
+143	http://dbpedia.org/resource/Lucy_Ward_(musician),	Lucy Ward (musician)
+144	http://dbpedia.org/resource/Pe_Maung_Tin,	Pe Maung Tin
+145	http://dbpedia.org/resource/Roque_Ceruti,	Roque Ceruti
+146	http://dbpedia.org/resource/2013_Gulf_Cup_of_Nations,	2013 Gulf Cup of Nations
+147	http://dbpedia.org/resource/Battle_of_Sampur,	Battle of Sampur
+148	http://dbpedia.org/resource/Battle_of_Zacatecas_(1914),	Battle of Zacatecas (1914)
+149	http://dbpedia.org/resource/Convoy_HX_156,	Convoy HX 156
+150	http://dbpedia.org/resource/Raid_on_Griessie,	Raid on Griessie
+151	http://dbpedia.org/resource/Ayrovo,	Ayrovo
+152	http://dbpedia.org/resource/Fleckistock,	Fleckistock
+153	http://dbpedia.org/resource/Henlow,	Henlow
+154	http://dbpedia.org/resource/North_Haledon,_New_Jersey,	North Haledon, New Jersey
+155	http://dbpedia.org/resource/Tchonoro,	Tchonoro
+156	http://dbpedia.org/resource/Gerbil_mouse,	Gerbil mouse
+157	http://dbpedia.org/resource/Gonyosoma_hodgsoni,	Gonyosoma hodgsoni
+158	http://dbpedia.org/resource/Lineatriton_orchimelas,	Lineatriton orchimelas
+159	http://dbpedia.org/resource/Nemapogon_nigralbella,	Nemapogon nigralbella
+160	http://dbpedia.org/resource/Schistura_jarutanini,	Schistura jarutanini
+161	http://dbpedia.org/resource/Can_U_Get_wit_It,	Can U Get wit It
+162	http://dbpedia.org/resource/Kaalpurush,	Kaalpurush
+163	http://dbpedia.org/resource/Silence_Is_Easy_(song),	Silence Is Easy (song)
+164	http://dbpedia.org/resource/The_Honolulu_Advertiser,	The Honolulu Advertiser
+165	http://dbpedia.org/resource/You_Better_Run	You Better Run
